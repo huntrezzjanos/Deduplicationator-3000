@@ -1,0 +1,6 @@
+psutil>=5.9.0
+cx_Freeze>=6.15.0
+pillow>=10.0.0  # For icon handling
+tqdm>=4.65.0  # For progress bars
+colorama>=0.4.6  # For colored console output
+tkinter  # For GUI (usually comes with Python) 
