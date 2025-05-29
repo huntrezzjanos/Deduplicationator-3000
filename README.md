@@ -16,20 +16,20 @@ A futuristic GUI application for finding and removing duplicate files with a cyb
 
 ## Screenshots
 
-*Coming soon*
+![Main Interface](screenshots/main-interface.png)
 
 ## Installation
 
 ### Quick Install
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/deduplicationator-3000/releases) page
+1. Download the latest release from the [Releases](https://github.com/huntrezzjanos/Deduplicationator-3000/releases) page
 2. Run the installer for your operating system
 
 ### Build from Source
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deduplicationator-3000.git
+git clone https://github.com/huntrezzjanos/Deduplicationator-3000.git
 cd deduplicationator-3000
 ```
 
